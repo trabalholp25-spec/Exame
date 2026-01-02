@@ -10,4 +10,6 @@ Dia 02/01(Leo) : Criação Menus e Submenus do Tópico Administração;
             Adicionado o Tipo em Ordens;
             Criação de Função para Contagem de Ativos;
             Listagens Filtradas Completas do tópico Ordens;
+            Criação de Função para mudar estado dos técnicos;
+            Contador de Reparos nos Ativos;
             
