@@ -37,4 +37,6 @@ add_executable(ExameFinal main.cpp
         Ler/Departamentos/leitura_departamentos.h
         Ler/Ordens/leitura_ordens.cpp
         Ler/Ordens/leitura_ordens.h
+        "Menus/Menu relatórios/menus_administracao.cpp"
+        "Menus/Menu relatórios/menus_administracao.h"
 )
