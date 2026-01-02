@@ -5,3 +5,5 @@ Dia 02/01(Leo) : Criação Menus e Submenus do Tópico Administração;
             Documentação de alguns pontos;
             Comentáriosde alguns pontos;
             Listar Ordens com Verificação;
+            Reativar Tecnicos e Departamentos;
+            Listagem Filtrada;
