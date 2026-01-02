@@ -1,6 +1,6 @@
 Escrever aqui todo o tipo de alterações efetuadas:
 
-Dia 02/01(Leo) : Criação Menus e Submenus do Tópico Administração;
+**Dia 02/01(Leo)** : Criação Menus e Submenus do Tópico Administração;
             Criação Do BackLog Com tudo em falta;
             Documentação de alguns pontos;
             Comentáriosde alguns pontos;
@@ -12,4 +12,6 @@ Dia 02/01(Leo) : Criação Menus e Submenus do Tópico Administração;
             Listagens Filtradas Completas do tópico Ordens;
             Criação de Função para mudar estado dos técnicos;
             Contador de Reparos nos Ativos;
+            Criada Função para escrever Equipa associada á Ordem;
+            Corrigida Função Encerrar Trabalho;
             
