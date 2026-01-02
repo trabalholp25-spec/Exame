@@ -1,0 +1,2 @@
+1; Leo; Pereira; Eletricista;Ocupado;
+2; Leo; Pereira; Eletricista; Disponível;
