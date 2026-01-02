@@ -8,4 +8,5 @@ Dia 02/01(Leo) : Criação Menus e Submenus do Tópico Administração;
             Reativar Tecnicos e Departamentos;
             Listagens Filtrada;
             Adicionado o Tipo em Ordens;
+            Criação de Função para Contagem de Ativos;
             
