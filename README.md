@@ -14,4 +14,6 @@ Escrever aqui todo o tipo de alterações efetuadas:
             Contador de Reparos nos Ativos;
             Criada Função para escrever Equipa associada á Ordem;
             Corrigida Função Encerrar Trabalho;
+            Adicionado contador de Ordens no Departamentos Requisitantes;
+            Função para a anterior adição;
             
