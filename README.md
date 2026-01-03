@@ -19,3 +19,4 @@ Escrever aqui todo o tipo de alterações efetuadas:
             Documentação e comentários em Departamentos.h e Departamentos.cpp
             Documentação e comentários em Tecnicos.h e Tecnicos.cpp
             
+**Dia 03/01(Leo)** : Listagem Filtrada dos técnicos
