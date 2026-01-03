@@ -1,0 +1,3 @@
+C:/Users/leona/OneDrive/Desktop/ExameFinal/cmake-build-debug/CMakeFiles/ExameFinal.dir
+C:/Users/leona/OneDrive/Desktop/ExameFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leona/OneDrive/Desktop/ExameFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

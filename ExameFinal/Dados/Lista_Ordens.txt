@@ -1,0 +1,31 @@
+Ordem nº 4
+-----------------------------
+Material: Parafusos | Quantidade: 2 | Preço unitário: 5.00 | Subtotal: 10.00
+Total da Ordem: 10.00 €
+
+Ordem nº 5
+-----------------------------
+Material: Parafusos | Quantidade: 2 | Preço unitário: 10.00 | Subtotal: 20.00
+Total da Ordem: 20.00 €
+
+Ordem nº 6
+-----------------------------
+Material: 1 | Quantidade: 1 | Preço unitário: 1.00 | Subtotal: 1.00
+Total da Ordem: 1.00 €
+
+Ordem nº 7
+-----------------------------
+Material: teste | Quantidade: 1 | Preço unitário: 2.00 | Subtotal: 2.00
+Total da Ordem: 2.00 €
+
+Ordem nº 8
+-----------------------------
+Material: teste | Quantidade: 1 | Preço unitário: 20.00 | Subtotal: 20.00
+Material: teste | Quantidade: 1 | Preço unitário: 20.00 | Subtotal: 20.00
+Total da Ordem: 40.00 €
+
+Ordem nº 1
+-----------------------------
+Material: teste | Quantidade: 1 | Preço unitário: 10.00 | Subtotal: 10.00
+Total da Ordem: 10.00 €
+
