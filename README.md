@@ -2,8 +2,6 @@ Escrever aqui todo o tipo de alterações efetuadas:
 
 **Dia 02/01(Leo)** : Criação Menus e Submenus do Tópico Administração;
             Criação Do BackLog Com tudo em falta;
-            Documentação de alguns pontos;
-            Comentáriosde alguns pontos;
             Listar Ordens com Verificação;
             Reativar Tecnicos e Departamentos;
             Listagens Filtrada;
@@ -16,4 +14,8 @@ Escrever aqui todo o tipo de alterações efetuadas:
             Corrigida Função Encerrar Trabalho;
             Adicionado contador de Ordens no Departamentos Requisitantes;
             Função para a anterior adição;
+            Documentação e comentários em Ordens.h e Ordens.cpp
+            Documentação e comentários em Equipamentos.h e Equipamentos.cpp
+            Documentação e comentários em Departamentos.h e Departamentos.cpp
+            Documentação e comentários em Tecnicos.h e Tecnicos.cpp
             
