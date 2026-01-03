@@ -21,4 +21,4 @@ Escrever aqui todo o tipo de alterações efetuadas:
             
 **Dia 03/01(Leo)** : Listagem Filtrada dos técnicos;
             ATivos Finalizados Completamente;     
-            Finalizado o Iniciar/Terminar Trabalhos
+            Finalizado o Iniciar/Terminar Trabalhos;
