@@ -24,3 +24,4 @@ Escrever aqui todo o tipo de alterações efetuadas:
             Finalizado o Iniciar/Terminar Trabalhos;
             Finalizado Ordens de Manutenção;
             Finalizado Departamentos;
+            Relatórios do tópico Departamentos Concluidos;
