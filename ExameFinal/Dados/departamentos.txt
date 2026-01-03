@@ -1,0 +1,2 @@
+1;Teste;João Silva;teste@empresa.com;+351912345678;0;0.00;0;
+2;Teste;Leo;Teste@Teste.com;+351123456789;3;63.00;0;
