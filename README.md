@@ -26,3 +26,11 @@ Escrever aqui todo o tipo de alterações efetuadas:
             Finalizado Departamentos;
             Relatórios do tópico Departamentos Concluidos;
             Finalizado a documentação e comentários(exceto nas listagens);
+
+**Dia 04/01(Leo)** : Trabalho completamente finalizado;
+            Falta    
+
+
+            
+
+            
