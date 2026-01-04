@@ -1,0 +1,38 @@
+[2026-01-04 16:09:38] Ordem 8 criada (Ativo 1, Departamento 1)
+[2026-01-04 16:10:56] Ordem 8 iniciada
+[2026-01-04 16:11:12] Ordem 8 encerrada
+[2026-01-04 16:23:07] Técnico criado | ID: 2 | Nome: Leo | Especialidade: Eletricista
+[2026-01-04 16:25:23] Técnico 3 marcado como INATIVO
+[2026-01-04 16:25:37] Técnico criado | ID: 2 | Nome: Leo | Especialidade: Mecânico
+[2026-01-04 16:25:44] Técnico 2 marcado como INATIVO
+[2026-01-04 16:40:55] Equipamento criado | ID: 2 | Nome: mesa | Localização: teste | Estado: Disponível
+[2026-01-04 16:42:41] Equipamento eliminado | ID: 2 | Estado: Inativo
+[2026-01-04 16:43:07] Departamento criado | ID: 2 | Nome: Teste | Responsável: Teste | Email: Teste@Teste.com
+[2026-01-04 16:48:47] Departamento atualizado | ID: 2 | Estado antigo: 0 | Estado novo: 1
+[2026-01-04 16:50:27] Equipamento atualizado | ID: 1| Estado antigo: Em Operação | Estado Novo: Em Reparacao 
+[2026-01-04 16:50:28] Ordem Adicionada ao Departamento | ID: 1 
+[2026-01-04 16:50:36] Custo da ordem Adicionado ao Departamento | ID: 1 |Custo: 10.000000 € 
+[2026-01-04 16:50:36] Ordem 9 criada (Ativo 1, Departamento 1)
+[2026-01-04 16:50:51] Técnico 1 | Estado alterado: Disponível -> Ocupado
+[2026-01-04 16:50:51] Técnico 1 associado à ordem 9
+[2026-01-04 16:50:51] Ordem 9 iniciada
+[2026-01-04 16:51:11] Técnico 1 | Estado alterado: Disponível -> Disponível
+[2026-01-04 16:51:11] Equipamento atualizado | ID: 1| Estado antigo: Inativo | Estado Novo: Em Operação 
+[2026-01-04 16:51:11] Reparo Adicionado a Equipamento | ID: 1 
+[2026-01-04 16:51:11] Ordem 9 encerrada
+[2026-01-04 16:53:14] Equipamento atualizado | ID: 1| Estado antigo: Em Operação | Estado Novo: Em Reparacao 
+[2026-01-04 16:53:14] Ordem Adicionada ao Departamento | ID: 1 
+[2026-01-04 16:53:27] Custo da ordem Adicionado ao Departamento | ID: 1 |Custo: 10.000000 € 
+[2026-01-04 16:53:28] Ordem 10 criada (Ativo 1, Departamento 1)
+[2026-01-04 16:53:36] Técnico 1 | Estado alterado: Disponível -> Ocupado
+[2026-01-04 16:53:36] Técnico 1 associado à ordem 10
+[2026-01-04 16:53:36] Ordem 10 iniciada
+[2026-01-04 16:53:41] Técnico 1 | Estado alterado: Ocupado -> Disponível
+[2026-01-04 16:53:41] Equipamento atualizado | ID: 1| Estado antigo: Inativo | Estado Novo: Em Operação 
+[2026-01-04 16:53:41] Reparo Adicionado a Equipamento | ID: 1 
+[2026-01-04 16:53:41] Ordem 10 encerrada
+[2026-01-04 16:54:59] Departamento atualizado | ID: 1 | Estado antigo: 0 | Estado novo: 1
+[2026-01-04 16:57:35] Departamento atualizado | ID: 1 | Estado antigo: 0 | Estado novo: 1
+[2026-01-04 16:59:41] Departamento Reativado | ID: 1
+[2026-01-04 17:01:20] Departamento atualizado | ID: 2 | Estado antigo: 0 | Estado novo: 1
+[2026-01-04 17:01:28] Departamento Reativado | ID: 2

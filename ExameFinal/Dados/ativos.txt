@@ -1,0 +1,2 @@
+1;Mesa de Escola;Escola Basica e Secundaria de Idaes;15/11/2025;Ferramenta;Em Operação;24;
+2;mesa;teste;16/10/2025;Ferramenta;Inativo;0;
