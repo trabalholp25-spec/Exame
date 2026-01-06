@@ -28,7 +28,8 @@ Escrever aqui todo o tipo de alterações efetuadas:
             Finalizado a documentação e comentários(exceto nas listagens);
 
 **Dia 04/01(Leo)** : Trabalho completamente finalizado;
-            Falta    
+
+**Dia 06/01(Leo)**  : Relatórios extras adicionados;
 
 
             
